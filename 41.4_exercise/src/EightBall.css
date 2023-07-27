@@ -1,0 +1,19 @@
+/* EightBall.css */
+.EightBall {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  user-select: none;
+}
+
+.EightBall-message {
+  text-align: center;
+  padding: 10px;
+}
